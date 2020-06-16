@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e165c239-850e-463a-8f7b-dca52f47c0b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1_MyBatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_MyBatis/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_MyBatis/src/main/resources/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习笔记第二季.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../学习笔记第二季.xmind" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cMLQop456PkMnJmANwFH6Zg3QO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e165c239-850e-463a-8f7b-dca52f47c0b5" name="Default Changelist" comment="" />
+      <created>1590333501344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590333501344</updated>
+      <workItem from="1590333502584" duration="717000" />
+      <workItem from="1592224686662" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="28" key="#Project_Structure" timestamp="1590333770687">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="729" y="28" key="#Project_Structure/0.0.2752.1112@0.0.2752.1112" timestamp="1590333770687" />
+    <state x="1104" y="253" key="FileChooserDialogImpl" timestamp="1592224985647">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1104" y="253" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1592224985647" />
+    <state x="513" y="141" key="new project wizard" timestamp="1592224988430">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="513" y="141" key="new project wizard/0.0.2752.1112@0.0.2752.1112" timestamp="1592224988430" />
+  </component>
+</project>
