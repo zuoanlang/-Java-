@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_MyBatis/1_MyBatis.iml" filepath="$PROJECT_DIR$/1_MyBatis/1_MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/手写框架系列.iml" filepath="$PROJECT_DIR$/.idea/手写框架系列.iml" />
+    </modules>
+  </component>
+</project>
