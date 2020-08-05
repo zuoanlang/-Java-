@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98f269ae-b016-4817-b95a-28039bd14d00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习笔记第二季.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../手写框架系列/1_MyBatis/1_MyBatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../手写框架系列/1_MyBatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../手写框架系列/1_MyBatis/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../手写框架系列/1_MyBatis/src/main/resources/sqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../学习笔记第二季.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../学习笔记第二季.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YkSemaphore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/YkAQS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YkAQS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/YkLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YkLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo9.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -84,6 +86,13 @@
       <option name="presentableId" value="Default" />
       <updated>1592224988460</updated>
       <workItem from="1592224993232" duration="6352000" />
+      <workItem from="1592317083326" duration="625000" />
+      <workItem from="1592632415074" duration="991000" />
+      <workItem from="1594818539012" duration="1272000" />
+      <workItem from="1595978285424" duration="1159000" />
+      <workItem from="1596378394059" duration="3715000" />
+      <workItem from="1596495648730" duration="1475000" />
+      <workItem from="1596583424250" duration="2857000" />
     </task>
     <servers />
   </component>
@@ -94,6 +103,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="41" y="28" key="#Project_Structure" timestamp="1596411679683">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="41" y="28" key="#Project_Structure/0.0.2752.1112@0.0.2752.1112" timestamp="1596411679683" />
+    <state x="1503" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594821379937">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1503" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1594821379937" />
+    <state x="447" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1596586051263">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="447" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.2752.1112@0.0.2752.1112" timestamp="1596586051263" />
     <state width="1334" height="288" key="GridCell.Tab.0.bottom" timestamp="1592231180852">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
@@ -110,5 +131,17 @@
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state width="1334" height="288" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1592231180852" />
+    <state x="118" y="115" key="SettingsEditor" timestamp="1596495940943">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="118" y="115" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1596495940943" />
+    <state x="445" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596497728046">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="445" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2752.1112@0.0.2752.1112" timestamp="1596497728046" />
+    <state x="267" y="77" width="840" height="1034" key="search.everywhere.popup" timestamp="1596496498126">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="267" y="77" width="840" height="1034" key="search.everywhere.popup/0.0.2752.1112@0.0.2752.1112" timestamp="1596496498126" />
   </component>
 </project>
